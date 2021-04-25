@@ -1,0 +1,6 @@
+﻿  Converting images
+  Reading ./application.config
+  Converting texts and fonts
+  Creating compile items for all generated source files: ..\..\generated\fonts\src\ApplicationFontProvider.cpp;..\..\generated\fonts\src\CachedFont.cpp;..\..\generated\fonts\src\FontCache.cpp;..\..\generated\fonts\src\Font_verdana_10_4bpp_0.cpp;..\..\generated\fonts\src\Font_verdana_20_4bpp_0.cpp;..\..\generated\fonts\src\Font_verdana_40_4bpp_0.cpp;..\..\generated\fonts\src\GeneratedFont.cpp;..\..\generated\fonts\src\Kerning_verdana_10_4bpp.cpp;..\..\generated\fonts\src\Kerning_verdana_20_4bpp.cpp;..\..\generated\fonts\src\Kerning_verdana_40_4bpp.cpp;..\..\generated\fonts\src\Table_verdana_10_4bpp.cpp;..\..\generated\fonts\src\Table_verdana_20_4bpp.cpp;..\..\generated\fonts\src\Table_verdana_40_4bpp.cpp;..\..\generated\fonts\src\UnmappedDataFont.cpp;..\..\generated\images\src\BitmapDatabase.cpp;..\..\generated\images\src\image_chicky_512.cpp;..\..\generated\images\src\image_pic3.cpp;..\..\generated\texts\src\Texts.cpp;..\..\generated\texts\src\TypedTextDatabase.cpp
+  Screen1View.cpp
+  Application.vcxproj -> C:\TouchGFXProjects\MyApplication_4\build\Debug\bin\Application.exe
